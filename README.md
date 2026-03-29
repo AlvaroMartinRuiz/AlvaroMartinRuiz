@@ -1,7 +1,7 @@
 <h1 align="center">Nice to meet you! I'm Álvaro <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy" width="35" /></h1>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning;Finance;Curious+about+many+things!" alt="Typing SVG" />
   </a>
 </div>
