@@ -1,4 +1,4 @@
-<h1 align="center">Nice to meet you! I'm Álvaro</h1>
+<h1 align="center">Nice to meet you! I'm Álvaro <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy" width="35" /></h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
