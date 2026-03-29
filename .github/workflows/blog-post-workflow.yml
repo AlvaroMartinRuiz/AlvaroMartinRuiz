@@ -16,3 +16,4 @@ jobs:
         with:
           # REPLACE the URL below with the one you found in Step 1!
           feed_list: "https://alvaromartinruiz.github.io/index.xml"
+          max_post_count: 2

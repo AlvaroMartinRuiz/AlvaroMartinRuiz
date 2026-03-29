@@ -62,7 +62,7 @@
 
 ## ✍️ Latest Blog Posts
 
-📖 Check out my full blog here: [alvaromartinruiz.github.io/blog](https://alvaromartinruiz.github.io/blog/)
+Check my latest posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Dupire Formula](https://alvaromartinruiz.github.io/blog/markdown_syntax/)
@@ -70,6 +70,9 @@
 - [Understanding Brownian Motion](https://alvaromartinruiz.github.io/blog/first-post/)
 - [Project Portfolio](https://alvaromartinruiz.github.io/projects/)
 <!-- BLOG-POST-LIST:END -->
+
+Or dive into my blog and look for something else to read: [alvaromartinruiz.github.io/blog](https://alvaromartinruiz.github.io/blog/)
+
 
 ---
 
