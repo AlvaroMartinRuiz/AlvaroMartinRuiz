@@ -1,5 +1,10 @@
 <h1 align="center">Nice to meet you! I'm Álvaro</h1>
-<h3 align="center">Machine Learning • Finance • Curious about many things</h3>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning;Finance;Curious+about+many+things!" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alvaro-martin-ruiz-engineering/">
@@ -35,75 +40,33 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <div style="display:inline-block;text-align:center;margin:0 10px">
-    <img src="https://skillicons.dev/icons?i=python" height="60"/>
-    <div>Python</div>
-  </div>
-  <div style="display:inline-block;text-align:center;margin:0 10px">
-    <img src="https://skillicons.dev/icons?i=java" height="60"/>
-    <div>Java</div>
-  </div>
-  <div style="display:inline-block;text-align:center;margin:0 10px">
-    <img src="https://skillicons.dev/icons?i=git" height="60"/>
-    <div>Git</div>
-  </div>
-  <div style="display:inline-block;text-align:center;margin:0 10px">
-    <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
-    <div>SQL</div>
-  </div>
-  <div style="display:inline-block;text-align:center;margin:0 10px">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="60"/>
-    <div>MongoDB</div>
-  </div>
-  <div style="display:inline-block;text-align:center;margin:0 10px">
-    <img src="https://skillicons.dev/icons?i=pytorch" height="60"/>
-    <div>PyTorch</div>
-  </div>
-  <div style="display:inline-block;text-align:center;margin:0 10px">
-    <img src="https://skillicons.dev/icons?i=tensorflow" height="60"/>
-    <div>TensorFlow</div>
-  </div>
-  <div style="display:inline-block;text-align:center;margin:0 10px">
-    <img src="https://skillicons.dev/icons?i=r" height="60"/>
-    <div>R</div>
-  </div>
-  <div style="display:inline-block;text-align:center;margin:0 10px">
-    <img src="https://skillicons.dev/icons?i=sklearn" height="60"/>
-    <div>Scikit-learn</div>
-  </div>
-  <div style="display:inline-block;text-align:center;margin:0 10px">
-    <img src="https://skillicons.dev/icons?i=selenium" height="60"/>
-    <div>Selenium</div>
-  </div>
+  <table>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=python" height="60"/><br/>Python</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=java" height="60"/><br/>Java</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git" height="60"/><br/>Git</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" height="60"/><br/>SQL</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="60"/><br/>MongoDB</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" height="60"/><br/>PyTorch</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" height="60"/><br/>TensorFlow</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=r" height="60"/><br/>R</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=sklearn" height="60"/><br/>Scikit-learn</td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=selenium" height="60"/><br/>Selenium</td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 📊 GitHub Wrapped
+## ✍️ Latest Blog Posts
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlvaroMartinRuiz&show_icons=true&theme=dracula&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroMartinRuiz&layout=compact&theme=dracula" height="150"/>
-</div>
+📖 Check out my full blog here: [alvaromartinruiz.github.io/blog](https://alvaromartinruiz.github.io/blog/)
 
 ---
 
-## ✍️ Blog Posts
-
-📖 Check out my blog here:  
-👉 https://alvaromartinruiz.github.io/blog/
-
----
-
-## 🧩 Have a look at my **projects**
+## 🧩 Have a look at my Projects
 
 📖 You can have a look at my projects here (they are organized by category, feel free to explore!):  
-👉 https://alvaromartinruiz.github.io/projects/ 
-
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+👉 https://alvaromartinruiz.github.io/projects/
