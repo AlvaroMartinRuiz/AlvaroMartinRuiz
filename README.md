@@ -65,6 +65,10 @@
 📖 Check out my full blog here: [alvaromartinruiz.github.io/blog](https://alvaromartinruiz.github.io/blog/)
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Dupire Formula](https://alvaromartinruiz.github.io/blog/markdown_syntax/)
+- [Understanding Stochastic Calculus](https://alvaromartinruiz.github.io/blog/post_3/)
+- [Understanding Brownian Motion](https://alvaromartinruiz.github.io/blog/first-post/)
+- [Project Portfolio](https://alvaromartinruiz.github.io/projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
