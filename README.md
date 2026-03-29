@@ -2,14 +2,11 @@
 <h3 align="center">Machine Learning • Quant Finance • Builder</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://www.linkedin.com/in/alvaro-martin-ruiz-engineering/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:alvarorz.martin@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/AlvaroMartinRuiz">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://alvaromartinruiz.github.io/">
     <img src="https://img.shields.io/badge/Website-FF6F61?style=for-the-badge&logo=firefox&logoColor=white"/>
@@ -20,20 +17,19 @@
 
 ## 🧠 About Me
 
-- 🎓 Final-year student focused on **Machine Learning & Data Science**
-- 🔬 Working on **Physics-Informed Neural Networks (PINNs)**
-- 💻 Building projects + exploring **startup ideas**
-- 📊 Interested in **markets, macro & quantitative finance**
-- 🎯 Targeting **Tech, Consulting & Hedge Funds**
+- 🎓 Final-year student on a Dual Bachelor on **Machine Learning & Telecommunications Engineering**
+- 🔬 Working as an assistant researcher @ **UC3M** on medical applications of GMM & CPD algorithms
+- 💻 Building side projects
+- 📊 Interested in **markets, quantitative finance & startups**
 
 ---
 
 ## ⚡ Currently Learning
 
-- Advanced Deep Learning (architectures, training tricks)
+- Advanced Deep Learning Architectures (transformers, CNNs, GNNs)
 - Mathematics for ML (probability, optimization, stats)
-- Quant Finance (derivatives, risk, market microstructure)
-- System Design & scalable ML systems
+- Finance (derivatives, monetary policy)
+- System Design
 
 ---
 ## 🛠️ Tech Stack
@@ -91,48 +87,20 @@
 
 ---
 
-## ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Coming soon: Writing about ML, quant & building
-<!-- BLOG-POST-LIST:END -->
+## ✍️ Blog Posts
 
 📖 Check my blog here:  
-👉 https://alvaromartinruiz.github.io/
+👉 https://alvaromartinruiz.github.io/blog/
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Have a look at my **projects**
 
-- 🧠 PINNs Research Project  
-  Deep learning for solving differential equations  
-
-- 🧬 Multimodal Model (ResNet + MLP)  
-  Image + metadata fusion (PyTorch)
-
-- 🌐 Personal Website & Blog  
-  Clean portfolio + technical writing  
+📖 You can have a look at my projects here (they are organized by category, don't be afraid of gossiping!):  
+👉 https://alvaromartinruiz.github.io/projects/ 
 
 ---
 
-## 🌍 Career Vision
-
-Building systems that combine **AI + Markets + Decision Making**
-
-Exploring:
-- Tech (ML / AI)
-- Consulting (strategy + analytics)
-- Quant / Hedge Funds
-
----
-
-## 🧠 Fun Facts
-
-- I enjoy debugging more than writing code
-- I learn from finance & geopolitics podcasts
-- I like high-pressure problem solving (hackathons)
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlvaroMartinRuiz&label=Profile%20views&color=0e75b6&style=flat"/>
