@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every hour automatically
+    - cron: '0 0 * * *' # Runs every day at midnight automatically
   workflow_dispatch: # Allows you to trigger it manually
 
 jobs:
@@ -14,6 +14,5 @@ jobs:
       - name: Pull in posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # REPLACE the URL below with the one you found in Step 1!
           feed_list: "https://alvaromartinruiz.github.io/index.xml"
           max_post_count: 2
