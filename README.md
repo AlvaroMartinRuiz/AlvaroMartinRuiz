@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Álvaro</h1>
-<h3 align="center">Machine Learning • Quant Finance • Builder</h3>
+<h1 align="center">Nice to meet you! I'm Álvaro</h1>
+<h3 align="center">Machine Learning • Finance • Curious about many things</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alvaro-martin-ruiz-engineering/">
@@ -17,8 +17,8 @@
 
 ## 🧠 About Me
 
-- 🎓 Final-year student on a Dual Bachelor on **Machine Learning & Telecommunications Engineering**
-- 🔬 Working as an assistant researcher @ **UC3M** on medical applications of GMM & CPD algorithms
+- 🎓 Final-year student in a **Dual Bachelor's degree in Machine Learning & Telecommunications Engineering**
+- 🔬 **Assistant Researcher @ UC3M**, focusing on medical applications of GMM & CPD algorithms
 - 💻 Building side projects
 - 📊 Interested in **markets, quantitative finance & startups**
 
@@ -48,23 +48,7 @@
     <div>Git</div>
   </div>
   <div style="display:inline-block;text-align:center;margin:0 10px">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="60"/>
-    <div>Node.js</div>
-  </div>
-  <div style="display:inline-block;text-align:center;margin:0 10px">
-    <img src="https://raw.githubusercontent.com/streamlit/brand/master/brand/streamlit-mark-color.png" height="60"/>
-    <div>Streamlit</div>
-  </div>
-  <div style="display:inline-block;text-align:center;margin:0 10px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/STMicroelectronics_logo.svg" height="60"/>
-    <div>SMT32Cube</div>
-  </div>
-  <div style="display:inline-block;text-align:center;margin:0 10px">
-    <img src="https://www.awr.com/sites/default/files/awr_logo_rgb.png" height="60"/>
-    <div>AWR</div>
-  </div>
-  <div style="display:inline-block;text-align:center;margin:0 10px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="60"/>
+    <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
     <div>SQL</div>
   </div>
   <div style="display:inline-block;text-align:center;margin:0 10px">
@@ -72,10 +56,27 @@
     <div>MongoDB</div>
   </div>
   <div style="display:inline-block;text-align:center;margin:0 10px">
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/63/Gurobi_logo.png" height="60"/>
-    <div>Gurobi</div>
+    <img src="https://skillicons.dev/icons?i=pytorch" height="60"/>
+    <div>PyTorch</div>
+  </div>
+  <div style="display:inline-block;text-align:center;margin:0 10px">
+    <img src="https://skillicons.dev/icons?i=tensorflow" height="60"/>
+    <div>TensorFlow</div>
+  </div>
+  <div style="display:inline-block;text-align:center;margin:0 10px">
+    <img src="https://skillicons.dev/icons?i=r" height="60"/>
+    <div>R</div>
+  </div>
+  <div style="display:inline-block;text-align:center;margin:0 10px">
+    <img src="https://skillicons.dev/icons?i=sklearn" height="60"/>
+    <div>Scikit-learn</div>
+  </div>
+  <div style="display:inline-block;text-align:center;margin:0 10px">
+    <img src="https://skillicons.dev/icons?i=selenium" height="60"/>
+    <div>Selenium</div>
   </div>
 </div>
+
 ---
 
 ## 📊 GitHub Wrapped
@@ -89,22 +90,16 @@
 
 ## ✍️ Blog Posts
 
-📖 Check my blog here:  
+📖 Check out my blog here:  
 👉 https://alvaromartinruiz.github.io/blog/
 
 ---
 
 ## 🧩 Have a look at my **projects**
 
-📖 You can have a look at my projects here (they are organized by category, don't be afraid of gossiping!):  
+📖 You can have a look at my projects here (they are organized by category, feel free to explore!):  
 👉 https://alvaromartinruiz.github.io/projects/ 
 
----
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AlvaroMartinRuiz&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
 
 ---
 
