@@ -71,7 +71,7 @@ Check my latest posts:
 - [Project Portfolio](https://alvaromartinruiz.github.io/projects/)
 <!-- BLOG-POST-LIST:END -->
 
-Or dive into my blog and look for something else to read: [alvaromartinruiz.github.io/blog](https://alvaromartinruiz.github.io/blog/)
+🔍 Or dive into my blog and look for something else to read: [alvaromartinruiz.github.io/blog](https://alvaromartinruiz.github.io/blog/)
 
 
 ---
