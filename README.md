@@ -64,6 +64,9 @@
 
 📖 Check out my full blog here: [alvaromartinruiz.github.io/blog](https://alvaromartinruiz.github.io/blog/)
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ## 🧩 Have a look at my Projects
