@@ -65,8 +65,8 @@
 Check my latest posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Dupire Formula](https://alvaromartinruiz.github.io/blog/dupire_formula/)
-- [Understanding Stochastic Calculus](https://alvaromartinruiz.github.io/blog/stochastic_calculus/)
+- [Understanding Itô&#39;s Calculus: Part 1](https://alvaromartinruiz.github.io/blog/stochastic_calculus/)
+- [Understanding Brownian Motion](https://alvaromartinruiz.github.io/blog/brownian_motion/)
 <!-- BLOG-POST-LIST:END -->
 
 🔍 Or dive into my blog and look for something else to read: [alvaromartinruiz.github.io/blog](https://alvaromartinruiz.github.io/blog/)
