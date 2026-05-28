@@ -65,8 +65,8 @@
 Check my latest posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Skill Gap Analysis](https://alvaromartinruiz.github.io/work/skill-gap-analysis/)
 - [Understanding Itô&#39;s Calculus: Part 1](https://alvaromartinruiz.github.io/blog/stochastic_calculus/)
-- [Understanding Brownian Motion](https://alvaromartinruiz.github.io/blog/brownian_motion/)
 <!-- BLOG-POST-LIST:END -->
 
 🔍 Or dive into my blog and look for something else to read: [alvaromartinruiz.github.io/blog](https://alvaromartinruiz.github.io/blog/)
