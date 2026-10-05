@@ -65,8 +65,8 @@
 Check my latest posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Skill Gap Analysis](https://alvaromartinruiz.github.io/work/skill-gap-analysis/)
-- [Understanding Itô&#39;s Calculus: Part 1](https://alvaromartinruiz.github.io/blog/stochastic_calculus/)
+- [Exploring the Viability of Google Takeout Data for Mental Health Monitoring](https://alvaromartinruiz.github.io/blog/google_takeout_mental_health_thesis/)
+- [Local Volatility Surface Calibration and Barrier Option Pricing via Physics-Informed Deep Learning](https://alvaromartinruiz.github.io/blog/pinns_local_volatility_thesis/)
 <!-- BLOG-POST-LIST:END -->
 
 🔍 Or dive into my blog and look for something else to read: [alvaromartinruiz.github.io/blog](https://alvaromartinruiz.github.io/blog/)
